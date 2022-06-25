@@ -19,3 +19,7 @@ Followed by K lines containing the numbers x and y (separated by a space) - the 
 \
 Output data: file *output.txt*. Contains the answer - the number of unique solutions to the problem.\
 Output data: file *time.txt*. Contains the running time of the algorithm in milliseconds, without taking into account the time of reading the input data and the time to create work threads.
+\
+\
+**Build project**:\
+You need only *gcc* compiler for project build. 
