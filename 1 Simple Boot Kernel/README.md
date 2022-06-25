@@ -4,4 +4,6 @@ For build this project you need:\
   2. link.exe                       Also comes with VS.
   3. dumpbin.exe                    Same
   4. yasm                           Utility for Assembly instructions in YASM notation
-  5. qemu                           Qemu emulator
+  5. qemu                           Qemu emulator\
+\
+You should use "Developer Command Prompt for VS" for correct commands run. (run CMD VS then cd to project folder and run cmd-s)
